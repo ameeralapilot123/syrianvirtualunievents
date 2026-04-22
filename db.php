@@ -1,12 +1,5 @@
 <?php
 
-
-// Online host (InfinityFree)
-// $host   = 'sql312.infinityfree.com';
-// $user   = 'if0_41720733';
-// $pass   = 'qd4e6Bq8d4VauX8';
-// $dbName = 'if0_41720733_svuevents';
-
 $host = 'localhost';
 $user = 'root';
 $pass = '';
